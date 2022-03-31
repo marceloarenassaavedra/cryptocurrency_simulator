@@ -68,3 +68,7 @@ if __name__ == "__main__":
 ```
 
 Both of the previous examples are available in the example folder for testing.
+
+## Acknowledgements
+
+This work was funded by Fondecyt grant 1191337.
